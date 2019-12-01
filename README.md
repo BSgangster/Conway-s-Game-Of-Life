@@ -2,6 +2,8 @@
 
 The game involves an (infinite) two-dimensional grid with black and white squares, which may be represented as 1 and 0. One may think of them as "live cells" or "dead cells".
 
+![Conway_Img](conway.gif)
+
 # The Rules
 ## For a space that is 'populated':
   * Each cell with one or no neighbors dies, as if by solitude.
@@ -9,5 +11,3 @@ The game involves an (infinite) two-dimensional grid with black and white square
   * Each cell with two or three neighbors survives.
   * For a space that is 'empty' or 'unpopulated'
   * Each cell with three neighbors becomes populated.
-
-![Conway_Img](conway.gif)
