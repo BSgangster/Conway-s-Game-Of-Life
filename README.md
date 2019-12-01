@@ -1,7 +1,6 @@
 # Conway-s-Game-Of-Life
 
-Just my take on Conway's Game of life, used some OOP concepts to solve this problem.
-
+The game involves an (infinite) two-dimensional grid with black and white squares, which may be represented as 1 and 0. One may think of them as "live cells" or "dead cells".
 
 # The Rules
 ## For a space that is 'populated':
