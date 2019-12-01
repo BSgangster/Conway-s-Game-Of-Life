@@ -9,3 +9,5 @@ The game involves an (infinite) two-dimensional grid with black and white square
   * Each cell with two or three neighbors survives.
   * For a space that is 'empty' or 'unpopulated'
   * Each cell with three neighbors becomes populated.
+
+![Conway_Img](conway.gif)
